@@ -19,3 +19,9 @@ This notebook is designed for a slurm based hpcc (specifically monsoon.hpc.nau.e
 
 Output files can be found in rad_outfiles.  The parameter file is currently set to give all the possible outputs from ipyrad which include nexus, phylip, tremix, and vcf.
 
+
+## Step 1. clone this repository:
+
+git clone https://github.com/thalictroides/RAD_demult_align_genotype
+
+## Step 2:  open ddrad_ipyrad.ipynb in ondemand or copy codeblocks into the terminal
