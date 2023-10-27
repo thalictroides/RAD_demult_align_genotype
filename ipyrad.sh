@@ -4,7 +4,7 @@
 #SBATCH --exclusive
 #SBATCH --time 4-0:00:00
 #SBATCH --mem-per-cpu 6gb
-#SBATCH --job-name ipyrad_mive
+#SBATCH --job-name ipyrad
 #SBATCH --output=ipyrad_error_%j.log     # Standard output and error log
 
 module load mambaforge/22.9.0
