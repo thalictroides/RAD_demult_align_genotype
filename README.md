@@ -8,7 +8,7 @@ This notebook is designed for a slurm based hpcc (specifically monsoon.hpc.nau.e
 
 **Input files**: 
 * R1.fastq.gz I1.fastq.gz I2.fastq.gz  Where R1 is a fastq of single-end reads and I1 and I2 are fastqs of index 1 and 2 respectively.  Manually load this into your /scratch/usr/rad/ipyrad folder.
-* sep_barcodes.txt  A two column file with no header where the first column is your sample ID and the second is index1 and index2 seperated by a "-"  ex. 1RC     GTACGTTC-CCATCACA.  Manually load this into your /scratch/usr/rad/ipyrad folder.
+* sep_barcodes.txt  A two column file with no header where the first column is your sample ID and the second is index1 and index2 seperated by a "-"  ex. 1RC    GTACGTTC-CCATCACA.  Manually load this into your /scratch/usr/rad/ipyrad folder.
 * params.txt  An ipyrad parameter file.  Examine and modify this file to your needs.
 
 **Bash scripts**
