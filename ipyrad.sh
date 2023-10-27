@@ -14,5 +14,5 @@ mamba activate iprenv
 module load openmpi/4.1.4
 
 ## call ipyrad on your params file
-ipyrad -p param.txt -s 34567 -c 80 --MPI
+ipyrad -p param.txt -s 1234567 -c 80 --MPI
 
