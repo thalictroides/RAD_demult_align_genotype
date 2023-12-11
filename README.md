@@ -24,4 +24,8 @@ Output files can be found in rad_outfiles.  The parameter file is currently set 
 
 git clone https://github.com/thalictroides/RAD_demult_align_genotype
 
-## Step 2:  open ddrad_ipyrad.ipynb in ondemand or copy codeblocks into the terminal
+## Step 2:  open ddrad_ipyrad.ipynb in ondemand
+
+## Step 3:  Set values for your directory and your input file name
+
+## Step 4: Run the notebook!
